@@ -1,3 +1,5 @@
+# Bismillahir Rohmanir Rohim!
+
 - 👋 Hi, I’m @mirzobedil
 - 👀 I’m interested in Javascript and web development
 - 🌱 I’m currently learning React.js
